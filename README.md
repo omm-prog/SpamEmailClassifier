@@ -1,7 +1,7 @@
 # SpamEmailClassifier
 This Python project implements a Spam Email Classifier using python
 
-# Key Features:
+## Key Features:
 
 # Data Preprocessing: 
 The code cleans and preprocesses the email text, including removing special characters, converting to lowercase, and eliminating stop words.
