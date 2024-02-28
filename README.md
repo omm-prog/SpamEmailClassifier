@@ -1,4 +1,4 @@
-      # Spam Email Classifier
+# Spam Email Classifier
 
 ## Overview
 
@@ -61,7 +61,8 @@ This Python script implements a Spam Email Classifier using natural language pro
 - **Recall:** 0.9249
 - **F1 Score:** 0.9140
 - **Confusion Matrix:**
-Where: [[713 29]
-       [ 22 271]]
+Where:
+[[713 29]
+[ 22 271]]
 
   
