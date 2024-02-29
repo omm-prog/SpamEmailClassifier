@@ -8,7 +8,7 @@ This Python script implements a Spam Email Classifier using natural language pro
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/spam-email-classifier.git
+   git clone https://github.com/omm-prog/SpamEmailClassifier/
    cd spam-email-classifier
    pip install pandas scikit-learn nltk
    python -m nltk.downloader stopwords
